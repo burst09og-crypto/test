@@ -47,7 +47,7 @@ http://103.157.248.140:8000/play/a00m/index.m3u8
 #EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Kids",Test 14
 http://103.157.248.140:8000/play/a00n/index.m3u8
 
-#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Kids",Test 15
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",Test 15
 http://103.157.248.140:8000/play/a00o/index.m3u8
 
 #EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Kids",Test 16
@@ -97,3 +97,50 @@ http://103.157.248.140:8000/play/c00i/index.m3u8
 #EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Kids",Test 28
 http://103.157.248.140:8000/play/d00i/index.m3u8
 
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",Via x esports
+http://38.44.109.41:8003/play/a0cy/index.m3u8
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",S sports 2
+http://smart.lokkeweb.workers.dev/ID=1313768516f4e2fb1853d4
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",S sports 1
+http://smart.lokkeweb.workers.dev/ID=35317621955a43bd93b947
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",Astro pl 
+http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1775977&extension=m3u8
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",Cricbuzz
+http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1775974&extension=m3u8
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",True football 3
+http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1775968&extension=m3u8
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",Vision b sports 3
+http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1775961&extension=m3u8
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",Astro Pl 2
+http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1775976&extension=m3u8
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",True Asian
+http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1775970&extension=m3u8
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",Aew 
+http://41.205.93.154/TBS/index.m3u8
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",Aew 2
+http://41.223.30.230/TBS/index.m3u8
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",Tnt premium 
+http://200.115.120.1:8000/play/ca040/index.m3u8
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",True sports 2
+https://raw.githubusercontent.com/ALittleAnt4161/m3u8/refs/heads/main/truesport2.m3u8
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",True sports 1
+http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776197&extension=m3u8
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",B1
+http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776124&extension=m3u8
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",B3
+http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776120&extension=m3u8
