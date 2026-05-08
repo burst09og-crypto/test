@@ -144,3 +144,53 @@ http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776124&extension
 
 #EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",B3
 http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776120&extension=m3u8
+
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",B USA
+http://23.237.104.106:8080/USA_BEIN/index.m3u8
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",Max 1
+	http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776175&extension=m3u8
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",DAZN UK event
+http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776175&extension=m3u8
+
+
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="KDrama",K series by MDC
+https://dxsqzqm5bzymd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-y4hwyihvksxae/playlist.m3u8?ads.ads_cdn=cf&ads.afsdk_params=AFSDK_VALUE&ads.app_domain=APP_DOMAIN&ads.app_name=APP_NAME&ads.cdn=cf&ads.device_did=PSID&ads.device_dnt=TARGETOPT&ads.service_id=IN4600019L1&ads.ssai_vendor=SSSLIVE&pb_type=pb-y4hwyihvksxae_cloudfront
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="KDrama",K drama plus
+https://dxsqzqm5bzymd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-y4hwyihvksxae/playlist.m3u8?ads.ads_cdn=cf&ads.afsdk_params=AFSDK_VALUE&ads.app_domain=APP_DOMAIN&ads.app_name=APP_NAME&ads.cdn=cf&ads.device_did=PSID&ads.device_dnt=TARGETOPT&ads.service_id=IN4600019L1&ads.ssai_vendor=SSSLIVE&pb_type=pb-y4hwyihvksxae_cloudfront
+
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="KDrama",Studio Genie K Movie 
+https://d3mlyypr4o0lnu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ed5jofslru32o/live/newid_271_5a422a88/samsung_tvplus/index.m3u8?apikey=b97c7a7d0c82424bb607e141ef215779&auth=5b83b877-978e6ce2-e97c8072-9c47db3d&ads.ssai_vendor=SSSLIVE&ads.service_id=GBBD4100011RE
+
+Studio Genie K Movie 2
+https://d3mlyypr4o0lnu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ed5jofslru32o/live/newid_271_5a422a88/samsung_tvplus/index.m3u8?apikey=b97c7a7d0c82424bb607e141ef215779&auth=5b83b877-978e6ce2-e97c8072-9c47db3d&ads.ssai_vendor=SSSLIVE&ads.service_id=GBBD4100011RE
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="KDrama",Studio Genie K Drama
+https://d3mlyypr4o0lnu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ed5jofslru32o/live/newid_271_5a422a88/samsung_tvplus/index.m3u8?apikey=b97c7a7d0c82424bb607e141ef215779&auth=5b83b877-978e6ce2-e97c8072-9c47db3d&ads.ssai_vendor=SSSLIVE&ads.service_id=GBBD4100011RE
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="KDrama",Studio Genie K Drama 3
+https://dxsqzqm5bzymd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-y4hwyihvksxae/playlist.m3u8?ads.ads_cdn=cf&ads.afsdk_params=AFSDK_VALUE&ads.app_domain=APP_DOMAIN&ads.app_name=APP_NAME&ads.cdn=cf&ads.device_did=PSID&ads.device_dnt=TARGETOPT&ads.service_id=IN4600019L1&ads.ssai_vendor=SSSLIVE&pb_type=pb-y4hwyihvksxae_cloudfront
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="KDrama",Studio Genie K Drama 2
+https://d3mlyypr4o0lnu.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ed5jofslru32o/3d997cb8-79f7-4bfc-b738-68b76ebee617/2.m3u8
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="KDrama",New k movies
+https://dxsqzqm5bzymd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-y4hwyihvksxae/playlist.m3u8?ads.ads_cdn=cf&ads.afsdk_params=AFSDK_VALUE&ads.app_domain=APP_DOMAIN&ads.app_name=APP_NAME&ads.cdn=cf&ads.device_did=PSID&ads.device_dnt=TARGETOPT&ads.service_id=IN4600019L1&ads.ssai_vendor=SSSLIVE&pb_type=pb-y4hwyihvksxae_cloudfront
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="KDrama",New K movies 2
+https://d3mlyypr4o0lnu.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-ed5jofslru32o/live/newid_271_5a422a88/samsung_tvplus/index.m3u8?apikey=b97c7a7d0c82424bb607e141ef215779&auth=5b83b877-978e6ce2-e97c8072-9c47db3d&ads.ssai_vendor=SSSLIVE&ads.service_id=GBBD4100011RE
+
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="KDrama",Romcom Korean Movie 
+https://dxsqzqm5bzymd.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/pb-y4hwyihvksxae/playlist.m3u8?ads.ads_cdn=cf&ads.afsdk_params=AFSDK_VALUE&ads.app_domain=APP_DOMAIN&ads.app_name=APP_NAME&ads.cdn=cf&ads.device_did=PSID&ads.device_dnt=TARGETOPT&ads.service_id=IN4600019L1&ads.ssai_vendor=SSSLIVE&pb_type=pb-y4hwyihvksxae_cloudfront
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Kids",Sony yay
+https://unknown-playlists.vercel.app/sonyyay!.m3u8
+
+#EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Sports",True football 3
+http://v3tv.live:80/play/live.php?mac=00:1A:79:C2:01:8B&stream=1776163&extension=m3u8
