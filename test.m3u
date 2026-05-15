@@ -7,6 +7,23 @@ http://87.255.35.150:18811/
 #EXTINF:-1 tvg-id="3223" tvg-name="Shark Tank India S5" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/SharkTankIndia.png" tvg-language="Hindi" group-title="Entertainment", Shark Tank India S5
 http://103.159.180.34:5001/live/3223.m3u8
 
+#EXTINF:-1 tvg-id="3204" tvg-name="Penta TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Penta_TV.png" tvg-language="English" group-title="Sports", Penta TV
+http://103.159.180.34:5001/live/3204.m3u8
+
+#EXTINF:-1 tvg-id="3028" tvg-name="BH OTT India Fest" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/BHStyle_Icon.png" tvg-language="Hindi" group-title="Entertainment", BH OTT India Fest
+http://103.159.180.34:5001/live/3028.m3u8
+
+#EXTINF:-1 tvg-id="963" tvg-name="Arre HD" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Arre.png" tvg-language="Hindi" group-title="Entertainment", Arre HD
+http://103.159.180.34:5001/live/963.m3u8
+
+#EXTINF:-1 tvg-id="2774" tvg-name="Power Kids TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Power_Kids_TV.png" tvg-language="Hindi" group-title="Kids", Power Kids TV
+https://cc-j2qrmdlg5y7lg.akamaized.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-j2qrmdlg5y7lg/powerkids.m3u8
+
+#EXTINF:-1 tvg-id="2354" tvg-name="Friends TV" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Friends_TV.png" tvg-language="Bengali" group-title="Entertainment", Friends TV
+https://server.playontv.in/friendstv/index.m3u8
+
+#EXTINF:-1 tvg-id="2077" tvg-name="Gangaur" tvg-logo="https://jiotvimages.cdn.jio.com/dare_images/images/Gangaur.png" tvg-language="Hindi" group-title="Entertainment", Gangaur
+https://pbgangaur.wiseplayout.com/Gangaur/master.m3u8
 #EXTINF:-1 tvg-id="CartoonClassics.pl@FAST" tvg-logo="https://i.postimg.cc/xCMm4zxP/download.png" group-title="Kids",Test 2
 https://d1g8wgjurz8via.cloudfront.net/bpk-tv/Zing/default/manifest.mpd
 
